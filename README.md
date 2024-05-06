@@ -14,8 +14,7 @@ Welcome to the real world, it sucks, but you gonna like it.
 From Rylee
 #### 【开源参与者守则】：
 任何信息都可以写！不要因为觉得自己是个“普通人”就不分享信息，人人都贡献一点点，以后信息就会越来越透明。可以不精美，也可以不排版，但是留下文字信息就可以~大家可以点击跳转到不同的地方，然后增加信息。
-建议大家可以先在本地自己的智能文档里打个草稿，再搬上来，做个双重备份（我们这个文档也会定期备份+github同步）。
-本项目同步备份GitHub: https://github.com/Ryleeing/GlobalApplication_Co-createdStudyAbroadTutorials
+
 ### 【开源贡献者签名板】：
 任何一个参与贡献的人都可以签名！哪怕只写了一句话！痕迹将永远留下！
 
