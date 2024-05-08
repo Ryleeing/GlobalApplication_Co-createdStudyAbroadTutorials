@@ -285,258 +285,505 @@ bar：卡双一流，80+，课程匹配的基础上，基本点击即送。
 
 
 # 【EE弱电-IC嵌入式方向】指北
+
 From 栖云 （小红书同名，ID 872520969）
+
 个人的申请季offer：
-欧洲：Lund EEE，Aalto Electronics （全奖+5000€），EIT Embedded System（KTH + BME），Erasmus Mundus - CoDaS （Aalto + Grenoble INP），EIT SENSE（KTH + 鲁汶），TU/e EE，DTU EE
-（德国意大利没申）
+
+欧洲：Lund EEE，Aalto Electronics （全奖+5000€），EIT Embedded System（KTH + BME），Erasmus Mundus - CoDaS （Aalto + Grenoble INP），EIT SENSE（KTH + 鲁汶），TU/e EE，DTU EE，德国意大利没申
+
 其他：NTU electronics，HKUST EE，Georgia Tech ECE MSc at Shenzhen，Duke ECE MEng at Kunshan
+
 最终选择了Georgia Tech ECE at Shenzhen，这里是欧洲板块所以只谈欧洲了。
 
 我列出的所有项目都是以下领域相关（欧陆英授）：
+
 模拟射频集成电路设计
+
 数字集成电路设计与验证
+
 嵌入式计算系统，智能硬件
+
 嵌入式软硬件开发
+
 微波天线电磁场，射频电路设计
+
 微纳电子器件，MEMS微机电系统
+
 都是弱电交叉软件领域的项目，附带部分通信。其他诸如强电，控制，光电等的EE项目别的同学会介绍。
 
+
 其中我认为很有特色的项目我会用红色，其他同学在文中补充的内容用蓝色
+
 我主要申请的是北欧学校（荷兰德国意大利的毕业压力你懂的），所以给北欧学校会篇幅较大，荷兰德国凭印象简单写写。
+
 平心而论，电路芯片方向，荷兰比利时的学术和工业都是北欧不能比的。如果能抗住压力且志向远大的同学请一定慎重放弃代尔夫特、鲁汶大学、TUM-NTU双学位的offer。在芯片上它们不只是区域强校，而是世界R＆D中心之一。
+
 我最终放弃了去欧洲求学，也放弃了芯片方向，这也是我自愿写这篇分享的缘由，希望让这些对我来说已经接近于“无用功”的东西，在这里继续拥有它们的价值，有些专业的视角和inside信息还是很宝贵的。
+
+
 ## 瑞典
+
+
 ### 隆德大学（Lund） Embedded Electronic System MSc
-官网：
+
 [Embedded Electronics Engineering - Master's Programme | Lund University](https://www.lunduniversity.lu.se/lubas/i-uoh-lu-TAEEE)
+
 研究方向：模拟集成电路设计，数字集成电路设计
+
 培养计划：60 ECTS 必修（八门）+ 30 ECTS 选修（四门）+ 30 ECTS 毕业设计
+
 （IC project会选优秀者流片）
+
 人数：往年20~25人，今年扩招至45人左右
+
 读博：每年1~2人能留本校读博，其他去向如查尔姆斯，屯特，林雪平等，以及去美国。总比例约25%。
+
 当地就业：隆德是瑞典的电子信息产业中心，很多国内外巨头的研发部门如爱立信，华为，ARM，索尼等坐落于此，同时也有更多本地的中小企业。所以学生在本地找实习，找毕业论文和找正式工作都相对容易。就业一直是隆德EE的比较优势。
+
 课程评价：本项目的所有专业课完全聚焦于集成电路设计，不但可选的理论课程丰富，而且在毕业设计之外还有至少两个IC PROJECT，也就是说有1.5年都要参与做项目。因此，lund EEE可以说是北欧最理想的集成电路设计学习去处。
+
 录取门槛：扩招前竞争非常激烈，是隆德工学院报录比第二低的项目。中流985 + 集成电路设计科班 + GPA 83/100 比较稳。但是扩招后难度有所降低。GPA和本科院校只能决定50%，剩下50%取决于申请人的课程匹配度。这在大部分欧陆申请中是通用的。
+
 24更新：这个项目非常歧视双非院校。高匹配度+高均分（90+）在24fall也被拒了很多，如果双非高分想要冲奖建议CTH。
+
 其他：近几年瑞典治安显著恶化，隆德作为一个学研小镇依然保持相对安宁，同时生活成本低于首都。学校保证为每一个学生提供住房，这对于留学生是不可忽视的福利。
+
+
 ### 皇家理工学院（KTH） Embedded System MSc
+
 [MSc Embedded Systems |  KTH | Sweden](https://www.kth.se/en/studies/master/embedded-systems/msc-embedded-systems-1.70455)
+
 研究方向：嵌入式软件，嵌入式电子-嵌入式平台（后两者相当于FPGA-ASIC设计-数字系统架构方向）
+
 培养计划：必修六门 + 一个15 ECTS嵌入式系统设计项目 + 选修 + 30 ECTS 毕业设计
+
 人数：70+ （不含EIT）
+
 读博：请知情人补充
+
 当地就业：坐落于首都的顶校不必多言。有人统计过LinkedIn上就职于科技巨头的校友数，KTH是全欧最多的之一，当然这其中爱立信吸纳了相当数量的就业。不过疫情之后学校的就业率依旧出现了明显的下滑，学校整体的最新数据应该是82%。同时EE所在的kista地区虽然号称瑞典硅谷，但现在已经出现了颓势，KTH也决定在几年内逐步关闭kista校区。
+
 课程评价：本项目对于想在嵌入式软件开发，FPGA开发，数字IC设计方面找工作的同学，或者有志于进阶研究ASIC，数字系统架构，AI硬件，多核计算，异构计算的同学是在北欧独一无二的机会。KTH比隆德在课程上的自主程度更大，你可以按照自己想要研究的方向选择track和大部分课程。想做上面提到的进阶研究方向的，可以关注KTH在这方面领衔的鲁中海教授。
+
 录取门槛：如果本科学校和KTH没有合作关系的话，需要面对激烈竞争。985 + 高匹配度 + GPA 85+ 才有希望（有可能录取也有可能waitlist）。并且KTH CSEE 24fall略有缩招。
+
 其他：KTH EE所在的kista地区是治安比较差的地方。学校也出过一些安全事件。学生在选择住房和未来生活上要注意保护自己。
+
+
 ### 查尔姆斯理工学院（Chalmers / CTH） Embedded Electronic System Design MSc
+
 [Embedded electronic system design, MSc ](https://www.chalmers.se/en/education/find-masters-programme/embedded-electronic-system-design-msc/)
+
 研究方向：整体偏向于应用型集成电路-嵌入式系统设计
+
 培养计划：必修六门 + 选修 + 30 或 60 ECTS 毕业设计
+
 人数：40左右
+
 读博：20%左右，在欧洲和美国的都有
+
 当地就业：Chalmers在就业上一直有口皆碑。由于和Volvo关系紧密，所以它的嵌入式项目的应用性很明显（和lund区别很大）。适合想要以embedded hw/sw engineer就业，尤其是想做汽车电子/医疗电子的同学。想进入汽车行业的话，不管留欧还是回国，来Chalmers都是值得的+。
+
 课程评价：Chalmers在嵌入式和集成电路上教学科研实力不如另外两所，本身没有什么很突出的方向，主要靠通信、计算机系统、汽车等系兼容。所以想做研究的话，我更愿意安利同校的信息与通信专业。
+
 录取门槛：低于其他两所。211 + EE专业 + GPA 80+ 就可以有信心了。听说今年的75%学费减免很多人都拿到了，不过Chalmers作为私立学校，奖学金难度每年波动比较大。
+
 其他：Chalmers也为学生提供住房，不过哥德堡比隆德大得多所以有些房源离学校很远，有些人也选择自己租房。
+
+
 ### 林雪平大学 电子工程 MSc
+
 [Electronics Engineering, Master's Programme, 120 credits](https://liu.se/en/education/program/6mele)
+
 研究方向：嵌入式系统与SoC，集成电路设计
+
 培养计划：必修 + 选修 + 30ECTS 毕业设计 （有流片课）
+
 人数：30左右
+
 课程评价：林雪平是一个小而精且快速进步的新兴学校，这个专业有流片现在知道的人很多了，不过我要提醒一下这个流片采用的是350nm制程工艺，是教学性质的流片而不是研究型的。相比之下国内免费的“一生一芯”兴趣课也能流片，110nm。所以我不建议只为了流片就牺牲排名和名声到这里来（尤其是当地就业恶化的情况下），有KTH，LUND，CTH就先去再说。
 
+
 另外我再补充一下其他弱电方向的硕士项目：
+
 Chalmers Wireless, Photonics and Space Technology MSc    微波天线，电磁场，光电方面
+
 KTH Electromagnetics, Fusion and Space Engineering MSc    微波天线，电磁场，核电方面
+
 Chalmers Biomedical Engineering MSc    医疗器械医疗电子方面，和医院合作，属于CTH强项之一
+
 还有通信方向的话，学习物理层强烈推荐隆德大学无线通信，学习网络或信号处理强烈推荐Chalmers ICT。
+
 这些项目想录取都比同校的electronics，embedded项目简单很多，双非只要其他条件不错一样希望很大。
 
 KTH有一个类似EIT的精英项目 ICT innovation MSc，每年只招30左右，中国人只5个左右，需要实力加运气
+
+
 ## 芬兰
+
 ### 阿尔托大学（Aalto） Electronics and Nanotechnology MSc
+
 （注意不是automaion & electrical engineering，二者差别非常大）
+
 [Electronics and Nanotechnology, Master of Science (Technology) | Aalto University](https://www.aalto.fi/en/study-options/electronics-and-nanotechnology-master-of-science-technology)
+
 研究方向：集成电路设计，微波工程，射频电路设计与天线，光子与纳米技术，空间工程（即卫星通信）
+
 培养计划：一门课5 ECTS，必修 + 专业选修 + 自由选修 + 30 ECTS 毕业设计。不同track的课程要求不同。
+
 人数：60（选集成电路设计的占一半多，其他track一届只有个位数）
+
 读博：30%
+
 当地就业：芬兰找工难度不必多说，本program的最新毕业一年内就业率82%，还可以。
+
 课程评价：这个项目很特殊，相当于是把EE中所有冷门方向都打包在这里了。唯一一个目前火爆的IC design是Aalto在这几个方向中最弱的，而且Aalto主攻的是很小众很难的射频IC。只有2~3个任课教师，再加上大部分学生都选择这个track，使得很多人是没有什么资源机会的（Aalto学长原话），所以除非自己已经是牛人（比如流过片的），否则建议还是去lund或者荷兰。然而，Aalto在纳米材料方向有北欧最好的实验条件而且很多课程明确了是实验室实训课程，它在微波天线电磁场领域也课题组众多，由于大部分人去挤IC design了，所以这几个方向每年只能招到几个学生，想做这些稍传统方向尤其是想在芬兰读phd的同学，可以说选择Aalto就是选择了一个相对稳定的未来。
+
 录取门槛：Aalto竞争一年一爆，从24fall开始缩减留学生名额和奖学金名额，在24年之前只要本科是ee + 均分83以上，就算是双非录取的也不少。而且人均全奖+5000€。今年开始变得非常难，想拿全奖需要中九或芬兰本科 + 均分85以上 + 高匹配度 + 运气。
+
 其他：芬兰未来几年计划扩招1000名博士生，光给阿尔托微电子就给了10个名额。所以对于想冲岗位制的人来说，Aalto依然是性价比极高的学校。另外，相比于荷兰德国意大利甚至是瑞典的同专业，这里在学习压力上应该是最低的，想水高分轻轻松松。however阿尔托不帮学生解决房源，自己要注意处理好住房问题。
+
+
 ### 阿尔托大学 Automaion & electrical engineering MSc
+
 [Automation and Electrical Engineering, Master of Science (Technology) | Aalto University](https://www.aalto.fi/en/study-options/automation-and-electrical-engineering-master-of-science-technology)
+
 研究方向：能源电力系统，控制与机器人，嵌入式
+
 人数：90
+
 读博：比上一个难
+
 当地就业：这个专业是EE中热门方向的集合，所以就业相对好很多
+
 课程评价：研究方向热门也就意味着学生很多而且竞争不小，想像上一个专业那样卡bug享受老师比学生还多的一对一服务那是做梦了。
+
 录取门槛：这个项目的录取难度就比上一个高很多了，不但要多提交一些材料，而且学校明确说了绩点85以上才有希望录取。一切都是有舍有得的，加油吧。
+
+
 ### 阿尔托大学 Communication engineering MSc
+
 [Communications Engineering - Computer, Communication and Information Sciences, Master of Science (Technology) | Aalto University](https://www.aalto.fi/en/study-options/communications-engineering-computer-communication-and-information-sciences-master-of-science)
+
 阿尔托在弱电方向的研究，通信是主力。在北欧学通信还是靠谱的。在阿尔托的这三个弱电专业里，通信是各方面情况都比较折中的（申请难度，人数，人均资源，专业实力，学习体验，读博机会等等）。虽然学长学姐也有一些吐槽，但我依然认为这个项目值得推荐。
+
+
 ### 奥卢大学 & 坦佩雷大学
+
 奥卢大学的 6G 通信，坦佩雷的SoC，RF都是科研很活跃的，当然读硕士的话选择这俩地方的人很少，就不多说了。
 
+
 ## 丹麦
+
 ### 丹麦技术大学（DTU）& 奥尔堡大学（AAU） Electrical Engineering MSc
+
 [Get a Master’s degree in Electrical Engineering](https://www.dtu.dk/english/education/graduate/msc-programmes/electrical-engineering)
+
 DTU 主攻方向：光电，光通信，电力系统，电力电子
+
 AAU 主攻方向：电力电子，电力系统，通信信道，射频电路
+
 这两个学校的特点是一致的，所以我放在一起写。前面有通信的朋友介绍了DTU了，我只做点建议：如果你志在做研究且想做的研究方向在我列的这些之中，那这两个地方就学有所值。尤其是电力电子，在蜚声世界的强校有两年不间断的lab和project，完全可以为你的专业道路助力。另外，据往届反馈，常规课程压力小，而想在DTU利用special course选一个课题组跟着科研几乎无难度，你完全可以在入学前的暑假就联系好带你的老师。但是，考虑到丹麦的高开销和低排名，如果你的未来志向不完全对应这里能提供的东西，来这里就没有什么意义。
+
 DTU整体院校的优势学科在生化环材，所以EE方向较强势的还是在光电器材（偏材料）这种。当然DTU的special course确实很好，录取门槛也不算高，但丹麦读博在某些学科对中国学生可能不太友好。
+
+
 ### 奥胡斯大学（AU） Electrical Engineering MSc
+
 除了软科排名前100（但也稳步下滑）之外没有任何亮点，不推荐
 
+
 ## 荷兰和比利时
+
 注意荷兰学校的毕业论文是持续一整年的，这是相比其他国家学校的一个显著特征。
+
+
 ### 代尔夫特（TUD） & 鲁汶（KUL） （有流片）
+
 [MSc Electrical Engineering](https://www.tudelft.nl/en/education/programmes/masters/ee/msc-electrical-engineering)
+
 [Track: Microelectronics](https://www.tudelft.nl/onderwijs/opleidingen/masters/ee/msc-electrical-engineering/track-microelectronics/)
+
 [Master of Electrical Engineering](https://www.kuleuven.be/programmes/master-electrical-engineering)
+
 [Master · Micas](https://micas.esat.kuleuven.be/educate/master)
+
 在芯片设计上有热爱有志向的同学一定不要错过代尔夫特的EE - microelectronics 以及 鲁汶的 chip design。具体课程和流片网上的褒贬评价已经很多了不用我转述。只就宏观而言，这两所学校在IC design上完全不用担心排名或title问题，和UC Berkeley，UMich，台大，清华一样是毫无疑问的世界一流声誉。
+
+
 ### 埃因霍温理工大学（TU / e） - electrical engineering
+
 （好像也有流片）
+
 [Master Electrical Engineering](https://www.tue.nl/en/education/graduate-school/master-electrical-engineering)
+
 个人认为本校的EE项目比embedded system项目好很多。反正embedded就是EE的一个子集，完全可以让自己自由一点选课和实习 & 尽量不要延毕。。。
+
 埃因霍温的科技园聚集了很多大小企业，号称“欧洲硅谷”，疫情前从这里毕业的EE学生完全不用担心找工作，当然现在也要担心了。
+
+
 ### 比利时根特大学（Ghent） - electrical engineering - circuit & systems
+
 [Ghent University: Master of Science in Electrical Engineering  (Electronic Circuits and Systems)](https://studiekiezer.ugent.be/2021/master-of-science-in-electrical-engineering-electronic-circuits-and-systems-en)
+
 根特虽然知名度不及鲁汶但是它在EE方面也非常重要。根特的光电非常有名，这个电路方向的研究生项目也有一堆光电的课程，想以光通信，集成光电，光刻等为研究方向的同学是个机会。
+
 根特和鲁汶的申请都很硬核，鲁汶需要专业笔试，根特需要专业面试，更别提比利时和德国一样需要APS考核。如果自己比较水的话，就算侥幸录取，想要毕业也要面临很大的考验。
 
+
 ## 德国（只列英授）
+
 所谓TU9在传统工科上自然有其统治力，但是嵌入式微电子不是传统工科，TU9没什么意义，德国在这方面声誉最好的当属TU dresden，学术上最活跃的当属弗莱堡大学和乌尔姆大学
+
 ### 慕尼黑工业大学 + 南洋理工大学 IC design MSc 双硕士
+
 [Joint NTU-TUM Master of Science in Integrated Circuit Design](https://www.ntu.edu.sg/education/graduate-programme/joint-master-of-science-in-ic-design)
+
 这个项目无疑要放在第一位。优点就不用说了，目前反馈的缺点一是开销看齐新加坡留学，所以预算不足就免谈了；二是奇特的课程安排可能难适应，而且TUM负责的那部分课的考试难度比NTU大很多；三是在新加坡找芯片设计实习也不是很好找，学校虽然要求你实习但并不会给你安排公司。
+
 但在这里录取并毕业毫无疑问前景是不错的，欧亚双top硕士学历给学生广阔的出路。
+
 由于这个项目正向buff叠满，所以这几年申请者人满为患，甚至出现了撤回已发放offer（理由是录取太多了）的恶性事件，目前能达到kth，lund，delft录取标准的同学过了aps应该还是好办的。
+
 ### 慕尼黑工业大学 + 南洋理工大学 Green electronics MSc 双硕士
+
 [Joint NTU-TUM Master of Science in Green Electronics](https://www.ntu.edu.sg/education/graduate-programme/joint-master-of-science-in-green-electronics)
+
 微电子器件材料，微系统，柔性电子等与材料相关方向的项目。录取难度远小于IC design，双非成功的人也不少。
+
 ### 慕尼黑工业大学（TUM） Communications and electronics engineering MSc
+
 [Communications and Electronics Engineering - Master of Science (M.Sc.) - TUMLoader](https://www.tum.de/en/studies/degree-programs/detail/communications-engineering-master-of-science-msc)
+
 这个项目原来的名称是通信工程，现在改为通信与电子工程。是TUM本部提供的。
+
 学生需要学习通信和电子两个领域的基础课，并之后在通信系统和通信电子两个学习方向中选择一个，进行后续的上课。
+
 学生还必须在校内或其他德国企业进行至少9 weeks实习
+
 最后是半年的毕业论文
+
 通信系统方向包含领域：信道编码、移动通信、光通信、密码学和系统安全、实时系统、图像和视频压缩、多媒体通信、无线电导航和定位、通信网络仿真、无线网络资源管理和 MIMO 系统中的时空处理。
+
 通信电子方向包含领域：EDA、模拟/混合信号 IC设计、IC制造、数字 IC验证、软硬件协同设计、纳米电子学。
+
 这个项目不管是申请还是就读的难度都不低，大部分申请人会被要求加面试。TUM的教育制度，再加上慕尼黑感人的生活费和TUM加收的学费，如果前往就读的话需要做好充足的准备。
+
 ### 德累斯顿工业大学 TU Dresden - Nanoelectronic systems MSc
+
 [Degree program Nanoelectronic Systems (Master) accredited](https://tu-dresden.de/studium/vor-dem-studium/studienangebot/sins/sins_studiengang?autoid=1858&set_language=en)
+
 德累斯顿也有“欧洲硅谷”的美誉，TU Dresden的微电子是其王牌专业，课程非常硬核（德语授课尤其）。论专业声誉德国其他学校不如它好。这个项目可以选择IC设计方向也可以选择IC器件方向。
+
 ### 德累斯顿工业大学 Organic and Molecular Electronics MSc
+
 [Studiengang Organic and Molecular Electronics (Master) akkreditiert](https://tu-dresden.de/studium/vor-dem-studium/studienangebot/sins/sins_studiengang?autoid=4856)
+
 这是新开的英语项目，我直接摘录DAAD的官方介绍：
+
 有机和分子电子学硕士课程致力于在有机电子学的前沿领域培养年轻的专业人士。它提供跨学科的学习计划，包括物理、化学、电气工程和材料科学。与行业合作伙伴的密切合作使高度以实践为导向的教育成为可能。
+
 有机电子是一种创新的电子产品，在四个关键应用领域具有巨大的市场潜力：显示器、光伏、照明和集成智能系统。虽然该技术是新颖的，但它也能够用于许多当前的应用，提供更低的成本和低能耗的制造工艺。该领域正在快速发展，开辟了许多令人兴奋的应用可能性和发展。
+
 该课程的师生比例非常好，能够引起教授的个人关注。学生和课程协调员能在短时间内澄清日常问题。
+
 ### 弗莱堡大学（U Freiburg） Embedded systems MSc 或 Microsystems MSc
+
 [Embedded Systems Engineering (Master of Science) — Faculty of Engineering](https://www.tf.uni-freiburg.de/en/study-programs/embedded-systems-engineering/m-sc-embedded-systems-engineering)
+
 [Microsystems Engineering (en) (Master of Science) — Faculty of Engineering](https://www.tf.uni-freiburg.de/en/study-programs/microsystem-engineering/m-sc-microsystems-engineering-en)
+
 弗莱堡大学在器件，微系统MEMS上面非常有名，历年ISSCC在德国一骑绝尘。弗莱堡大学同时也是拥有近500年历史与24个诺贝尔奖的综合性大学，所以QS泰晤士排名也还行。著名校友如向死而生海德格尔，太伟大了哈耶克等。
+
 ### 凯泽斯劳滕工业大学 Embedded Computing systems MSc 以及它主办的Erasmus项目
+
 [European Master in Embedded Computing Systems | An Erasmus Mundus Programme](https://emecs.eit.uni-kl.de/)
+
 项目有三个学习方向：嵌入式硬件架构，嵌入式软件架构，SoC设计方法
+
 这个项目的特色是嵌入式系统架构以及集成电路EDA方向，依托临近的德国人工智能研究中心设立。这应该是欧洲唯一可以专注于架构的项目。莱茵兰工业大学本身在架构和EDA方面的研究独树一帜。
+
 它主办的同名Erasmus项目是与英国南安普顿大学，意大利都灵理工，及挪威科技大学合办的。可以碰碰运气。
+
 ### 斯图加特大学 Electrical Engineering 或 information technology MSc
+
 [Electrical Engineering M.Sc. for prospective students | Study program | University of Stuttgart](https://www.uni-stuttgart.de/en/study/study-programs/Electrical-Engineering-M.Sc-00002./)
+
 [Master Program INFOTECH | University of Stuttgart](https://www.infotech.uni-stuttgart.de/)
+
 学校不算出众，但是想录取并不容易
+
 ### 埃尔朗根纽伦堡大学（FAU） Information & communication technology MSc
+
 [Information and Communication Technology](https://www.iuk.studium.fau.eu/)
+
 纽伦堡是每年国际嵌入式展的举办地（上海每年也作为分会场参加展览），也是西门子的总部驻地，有很多将通信电子技术紧密结合在制造业的项目。当然，FAU的租房和学习难度非同小可。
+
 ### 埃尔朗根纽伦堡大学 高级信号处理与通信工程（ASPCE） Msc
+
 [Elite Master's Study Programme](https://www.asc.studium.fau.de/)
+
 纽伦堡大学的精英项目，是上一个硕士的升级版。学校自己对此的介绍非常诱人，建议想去德国的朋友一定不要忘记尝试一下申请这个项目！！
+
 贴一下学校自己的介绍：
+
 高级信号处理和通信工程ASC精英硕士学习课程是“Elitenetzwerk Bayern”（巴伐利亚精英网络）内的一个为期四个学期的硕士课程，这是一项针对追求更高职业目标的高素质学生的倡议。
+
 只有有才的人方可以入学。我们鼓励怀疑自己是否符合严格的录取标准的申请人同时申请FAU的其他硕士课程。
+
 它还涉及与优秀教师密切合作的强化研究型培训，以加快随后的博士教育。
+
 强烈鼓励发表研究成果，并将支付会议演讲的差旅费。
+
 暑期学校、冬季学校和启动研讨会是课程的必修部分。
+
 ASC专注于跨学科概念，这些概念是信号处理和通信领域先进技术的基础。除了信息论、编码和统计信号处理之外，还有机器学习、深度学习、优化和博弈论。学生选择不同的专业领域，加深这些主题的广泛跨学科范围。
+
 精选的教职员工指导学生根据个人兴趣和职业目标制定自己的课程。
+
 为期四个学期的课程从冬季学期前的启动研讨会开始。该学习计划包括三个研究项目，其中一个是为期六个月的硕士论文。
+
 冬季学校通过一般的软技能，特别是人员管理和业务发展来补充科学教育。
+
 暑期学校为学生在课程第二年进行基于研究的培训做好准备。此外，学生可以选择参加由Elitenetzwerk Bayern组织的各种活动。
+
 ### 达姆施塔特工业大学TU Darmstadt - information & communication technology MSc
+
 [About](https://www.etit.tu-darmstadt.de/ice/about/index.en.jsp)
+
 TU9中比较热门的一所，著名德国衡水之一，申请时有笔试
+
 ### 乌尔姆大学 - U Ulm - information & communication technology MSc
+
 [Masterstudium Communications Technology - Universität Ulm](https://www.uni-ulm.de/en/in/faculty/studium/courses/study-course/course/communication-and-information-technology-master/)
+
 东南大学和这里有3+2项目，可以参考知乎上东南学长的就读分享，好像没有德国传统TU那么难按时毕业，充实度恰到好处。乌尔姆大学很年轻，在微电子和嵌入式上这几年科研非常活跃，比如ADC/DAC。
+
 这个专业学校提供了四个学习方向：通信工程，通信电路，传感器电路，智能嵌入式系统
+
 ### 亚琛工业大学（RWTH Aachen） EE & IT MSc
+
 [Electrical Engineering, Information Technology, and Computer Engineering M.Sc. - RWTH AACHEN UNIVERSITY  - English](https://www.rwth-aachen.de/go/id/bngt/lidx/1)
+
 学校当然是德国工科top2，但是注意这里是衡水中的地狱难度，要来的话请做好心理准备。
+
 申请的课程匹配度要求有点逆天，去的话大概率要补课。
 
+
 ## 意大利
+
 ### 米兰理工大学（PoliMi）
+
 除了0学费+每个人都有助学金所以非常省钱之外，其他全是坑。不推荐。
+
 ### 都灵理工大学（PoliTo）
+
 都灵的EE硕士分了好几个专业项目，可以自己去查阅和选择。它的培养方案比米兰理工科学很多，而且有不少和KTH，EURECOM，EPFL等欧洲学校的交换甚至双学位的名额。和米兰二选一的话个人更倾向都灵理工。
+
 ### 博洛尼亚大学
+
 有多个EE硕士项目，不过比较平庸。有一些精英项目比如电动汽车双学位可以冲一下。
+
 ### 帕维亚大学（Pavia） Electronic Engineering MSc
+
 [Ph. D. School in MicroelectronicsHome](http://www-9.unipv.it/dottMICR/)
+
 [http://mpee.unipv.eu/](http://mpee.unipv.eu/)
+
 大家可能都从来没听说过的学校，和奥尔堡大学，澳门大学类似的细分领域神校。它在模拟集成电路设计方面硕果累累，是欧洲发表ISSCC最猛的学校之一。电子工程硕士与意法半导体合作，学生可以参与华为，意法，NXP等合作企业提供的研究项目。当然，这种学校可能还是更适合大家作为PhD的去处。
 
+
 ## EIT digital 和 Erasmus Mundus
+
 欧盟主办、多校合作的1+1双学位项目。
+
 EIT和其他欧洲学校一样正常申请即可，现在几乎都是自费，录取难度比直接申KTH，鲁汶什么的要容易很多。
+
 Erasmus项目每年的情况都会变化，名额很少，普遍是1500+ 筛选 30 这种竞争，而且要考虑国籍、种族、性别平衡。光入围都是很难的事，想要拿到全奖（免学费 + 每个月补贴一千多欧 + 安家费差旅费）只能是大神或者撞大运了。
+
 具体的项目情况可以自己去官网查询，Erasmus项目先行者留下的信息很少，难以给出非官方的描述和评价。
 
 补充：EIT是创新创业导向的，所以课程结构和一般2年硕有所不同，是60学分专业课＋30学分商业课＋30学分毕业论文。而且由于一个学校最多呆一年所以想科研相对来说不方便。总体来说是就业或创业导向。
+
 Erasmus都是学校的自组织项目，从特别industrial到特别research的都有。不过大部分是高度聚焦于某一专题。这在我后面列出的项目名称中就能看出来。
 
 EIT digital：
+
 [Home // EIT Digital Master School](https://masterschool.eitdigital.eu/)
+
 EIT innoenergy：
+
 [EIT InnoEnergy Master School](https://www.innoenergy.com/for-students/master-school/)
+
 Erasmus：
+
 [Erasmus Mundus Catalogue](https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en)
+
 还是贴几个弱电相关的Erasmus项目吧哈哈（括号里注明了领衔学校），欧洲还可以的英授弱电MSc到此列举完毕。
+
 EMECS - 嵌入式计算系统 （英国南安普顿大学，都灵理工）
+
 [European Master in Embedded Computing Systems | An Erasmus Mundus Programme](https://emecs.eit.uni-kl.de/)
+
 CODAS - 通信工程与数据科学 （阿尔托）
+
 [CoDaS](https://www.unite-codas-master.eu/)
+
 RADMEP - 微电子与光电的辐射研究 （鲁汶）
+
 [(pas de titre)](https://master-radmep.org/)
+
 SSIS - 集成微系统 （阿尔托）
+
 [Joint International Master in Smart Systems Integrated Solutions (SSIs) - SSIs](https://ssi-master.eu/)
+
 EMINENT - 嵌入式智能微系统 （德国锡根大学）
+
 [European Master EMINENT now open for application - ATHENA European University](https://athenauni.eu/eminent-application/)
+
 EMIMEO - 微波电子与光 （德国耶拿大学）
+
 [EMIMEO Erasmus Mundus in Electronics, Microwave and Optics](https://www.erasmus-master.emimeo.eu/)
+
 IMAGING - 图像学 （米兰理工）
+
 [emjm-imaging](https://www.emjm-imaging.eu/)
+
 IMLEX - 图像处理与光 （鲁汶，第二年去日本）
+
 [Studies - Master of Science in Imaging and Light in Extended Reality](https://imlex.org/studies/)
+
 EUPHO - 光子学（卡鲁）
+
 [Europhotonics - International Master in Photonics - Erasmus Mundus](http://www.europhotonics.org/wordpress/)
+
 SECCLO - 云计算与安全 （皇家理工，阿尔托）
+
 [https://www.secclo.eu/](https://www.secclo.eu/)
+
 GENIAL - 网络与云计算 （洛林大学）
+
 [GENIAL](https://genial.univ-lorraine.fr/)
+
 JEMARO - 欧日高级机器人 （日本庆应大学）
+
 [Master JEMARO](https://jemaro.ec-nantes.fr/)
+
 MIR - 海洋机器人 （挪威科技大学）
+
 [Master Mir – Erasmus Mundus joint Master's Degree](https://www.master-mir.eu/)
+
 EMMNANO - 纳米科学与技术　 (鲁汶，Chalmers，TU Dresden)
+
 这个项目的合作方可谓全明星阵容了，超过８０％的学生继续读博。
+
 [https://www.emm-nano.org/](https://www.emm-nano.org/)
 
+
 （写于2024.5.4，完结撒花✿✿✿）
+
+
 
 # 【EE】杂谈
 既然是杂谈，内容也就不那么正式，权当申请季后的碎碎念。本人本科专业电子信息，比较万金油，申请欧洲时参考了许多论坛和学长学姐的意见消息。个人认为申请欧洲硕士，首先要考虑一点的就是国家与排名（没有人会与排名过不去。前xx名能申请某地的人才政策补贴，后面的学校就是不行。你缺钱吗？反正我缺），以下学校的情况分享也是基于国家来分类的。前排提示：如果你不是10043 or 留学资金受限 or 对欧洲或者其他国家有特殊情感或者特殊需求（如润），请申请时一定不要局限于欧洲。
